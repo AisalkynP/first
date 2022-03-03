@@ -1,0 +1,37 @@
+.mobile{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 231px;
+}
+.mobile__title{
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+width: 481px;
+
+}
+.mobile__text{
+font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 30px;
+color: #7D7987;
+width: 450px;
+height: 90px;
+margin: 20px 0 33px;
+}
+.mobile__right img{
+    margin: 0 465px 47px 0;
+    
+    position: relative;
+}
+.mobile__star{
+    top: -30px;
+    left: 355px;
+}
+.mobile__circle{
+    left: 50px;
+}

@@ -1,0 +1,27 @@
+
+.menu{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+.menu li {
+    margin-left: 34px;
+    color: #B8BECD;
+    font-size: 16px;
+    font-family:'Inter', sans-serif;
+    transition: all 2s;
+}
+.menu li:hover {
+    transition: 0.3s;
+    color: #202336;
+}
+
+.menu li:hover {
+    border-color: rgb(241, 126, 49);
+    box-shadow: 0px 0px 15px  rgb(241, 126, 49);
+    color:  rgb(241, 126, 49);
+}

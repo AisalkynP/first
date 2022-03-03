@@ -1,0 +1,29 @@
+.parachute{
+    display: flex;
+    justify-content: space-between;
+}
+
+.parachute__img{
+    margin-top: 286px;
+}
+.parachute__title{
+    margin-top: 382px;
+    Width: 481px;
+    Height: 100px;
+    font-family: Playfair Display;
+   font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+}
+.parachute__text{
+font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 30px;
+color: #7D7987;
+Width:450px;
+Height: 120px;
+
+}
