@@ -1,0 +1,51 @@
+.hero__title {
+    font-family: "Playfair Display";
+    font-size: 64px;
+    font-weight: bold;
+    color: #202336;
+    width: 356px;
+}
+
+.hero__subtitle {
+    font-family: inter;
+    color: #202336;
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: 74px;
+}
+
+.hero {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero__btn {
+    margin-top: 51px;
+}
+
+.hero__select {
+    width: 220px;
+    height: 52px;
+    font-family: Inter;
+    font-size: 15px;
+    color: #4A4C53;
+    border: 0.8px solid #afb0b9;
+    border-radius: 6px;
+    margin-top: 35px;
+}
+
+.hero__selector {
+    max-width: 470px;
+}
+
+.hero__select {
+    margin: 35px 10px 0 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 32px;
+    color: #4A4C53;
+}   
+
